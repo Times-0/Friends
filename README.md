@@ -53,6 +53,6 @@ $(document).ready( function () {
 </script>
 ``` 
 
-That's it you are now set, now download files from **html** folder. Place it in your play directory. (ie, play/, where play.localhost is directed to)
+That's it you are now set, now download files from **[html](https://github.com/Times-0/Friends/tree/master/html)** folder. Place it in your play directory. (ie, play/, where play.localhost is directed to)
 
 Thats it, client is set. Grab the latest Timeline and enjoy your list!
